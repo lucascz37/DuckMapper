@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="DuckMapper",
-    version="1.0.0",
+    version="1.0.1",
     author="Lucas A. Andrade",
     author_email="luke.andrade99@gmail.com",
     packages=["DuckMapper"],
